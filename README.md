@@ -1,10 +1,4 @@
-# Proyecto Increíble
-
-Bienvenido al repositorio del Proyecto Increíble. Aquí encontrarás información sobre el proyecto y algunas estadísticas interesantes.
-
-## Estado del Proyecto
-
-- [![Estado de construcción](https://img.shields.io/travis/nombre_usuario/nombre_repositorio)](link_a_tu_estado_de_construccion)
+# HOLA! 
 
 ## Estadísticas 📊
 
