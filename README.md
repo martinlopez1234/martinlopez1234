@@ -4,7 +4,7 @@ Bienvenido al repositorio de Mi Proyecto Increíble. Aquí encontrarás informac
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=NOMBRE_USUARIO&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=martinlopez1234&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## Racha en GitHub
 
