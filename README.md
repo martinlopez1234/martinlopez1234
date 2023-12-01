@@ -1,4 +1,4 @@
-# Bienvenido a mi github! 
+# Bienvenido a mi github! 🥳👌🧑‍💻
 Bienvenido al repositorio aca encontraras todos lo proyecto que he estado haciendo!
 
 ## Estadísticas de GitHub
