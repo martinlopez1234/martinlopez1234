@@ -1,6 +1,5 @@
-# Mi Proyecto Increíble
-
-Bienvenido al repositorio de Mi Proyecto Increíble. Aquí encontrarás información sobre el proyecto y algunas estadísticas interesantes.
+# Bienvenido a mi github! 
+Bienvenido al repositorio aca encontraras todos lo proyecto que he estado haciendo!
 
 ## Estadísticas de GitHub
 
@@ -9,5 +8,4 @@ Bienvenido al repositorio de Mi Proyecto Increíble. Aquí encontrarás informac
 ## Racha en GitHub
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NOMBRE_USUARIO&theme=radical)
-
 
