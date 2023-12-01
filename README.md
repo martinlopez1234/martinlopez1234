@@ -1,17 +1,26 @@
-### Hi there 👋
+# Proyecto Increíble
 
-<!--
-**martinlopez1234/martinlopez1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido al repositorio del Proyecto Increíble. Aquí encontrarás información sobre el proyecto y algunas estadísticas interesantes.
 
-Here are some ideas to get you started:
+## Estado del Proyecto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martinlopez1234 &theme=radical)
+- [![Estado de construcción](https://img.shields.io/travis/nombre_usuario/nombre_repositorio)](link_a_tu_estado_de_construccion)
+
+## Estadísticas 📊
+
+- [Ver estadísticas en GitHub Insights](link_a_tus_estadisticas)
+
+## Datos Clave
+
+| Estadística         | Valor     |
+|---------------------|-----------|
+| Número de Issues    | 10        |
+| Contribuyentes      | 5         |
+
+## Contribución
+
+¡Agradecemos todas las contribuciones al Proyecto Increíble! Si deseas contribuir, consulta nuestra [guía de contribución](link_a_tu_guia_de_contribucion).
+
+## Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
